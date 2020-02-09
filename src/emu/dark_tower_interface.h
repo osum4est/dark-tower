@@ -1,0 +1,8 @@
+//
+// Created by Forrest Jones on 2/8/20.
+//
+
+#ifndef DARK_TOWER_DARK_TOWER_INTERFACE_H
+#define DARK_TOWER_DARK_TOWER_INTERFACE_H
+
+#endif //DARK_TOWER_DARK_TOWER_INTERFACE_H
